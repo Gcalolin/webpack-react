@@ -1,0 +1,166 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+Example usage in HTML:
+
+`display: block` sprite:
+<div class="icon-home"></div>
+
+To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+
+// CSS
+.icon {
+  display: inline-block;
+}
+
+// HTML
+<i class="icon icon-home"></i>
+*/
+.cicon {
+    display: inline-block;
+    background-size: 13.8125rem 11.75rem;
+}
+.icon-alipay-icon {
+  background-image: url(../images/sprite.png);
+  background-position: -3.6875rem -10.375rem;
+  width: 1.375rem;
+  height: 1.375rem;
+}
+.icon-back {
+  background-image: url(../images/sprite.png);
+  background-position: -12.4375rem -9.5rem;
+  width: 0.59375rem;
+  height: 1rem;
+}
+.icon-clear {
+  background-image: url(../images/sprite.png);
+  background-position: -12.4375rem -5.15625rem;
+  width: 0.9375rem;
+  height: 0.9375rem;
+}
+.icon-close {
+  background-image: url(../images/sprite.png);
+  background-position: -9.1875rem -7.15625rem;
+  width: 1.375rem;
+  height: 1.375rem;
+}
+.icon-date-center {
+  background-image: url(../images/sprite.png);
+  background-position: -7.28125rem -7.15625rem;
+  width: 1.4375rem;
+  height: 1.4375rem;
+}
+.icon-date {
+  background-image: url(../images/sprite.png);
+  background-position: -3.21875rem -7.15625rem;
+  width: 1.5625rem;
+  height: 1.5625rem;
+}
+.icon-dialog-close {
+  background-image: url(../images/sprite.png);
+  background-position: -9.78125rem -4.03125rem;
+  width: 2.1875rem;
+  height: 2.1875rem;
+}
+.icon-good-mark {
+  background-image: url(../images/sprite.png);
+  background-position: -6rem -4.03125rem;
+  width: 2rem;
+  height: 2rem;
+}
+.icon-header-back {
+  background-image: url(../images/sprite.png);
+  background-position: -12.4375rem -6.5625rem;
+  width: 0.6875rem;
+  height: 1.1875rem;
+}
+.icon-loading_1 {
+  background-image: url(../images/sprite.png);
+  background-position: -5.25rem -7.15625rem;
+  width: 1.5625rem;
+  height: 1.5625rem;
+}
+.icon-loading_2 {
+  background-image: url(../images/sprite.png);
+  background-position: -3.46875rem -4.03125rem;
+  width: 2.0625rem;
+  height: 2.0625rem;
+}
+.icon-person-center-checked {
+  background-image: url(../images/sprite.png);
+  background-position: 0rem -10.375rem;
+  width: 1.375rem;
+  height: 1.375rem;
+}
+.icon-person-center-uncheck {
+  background-image: url(../images/sprite.png);
+  background-position: -12.4375rem -1.84375rem;
+  width: 1.375rem;
+  height: 1.375rem;
+}
+.icon-person-img {
+  background-image: url(../images/sprite.png);
+  background-position: 0rem -7.15625rem;
+  width: 2.75rem;
+  height: 2.75rem;
+}
+.icon-refresh {
+  background-image: url(../images/sprite.png);
+  background-position: -12.4375rem -3.6875rem;
+  width: 1rem;
+  height: 1rem;
+}
+.icon-setting {
+  background-image: url(../images/sprite.png);
+  background-position: -7.375rem -10.375rem;
+  width: 1.375rem;
+  height: 1.375rem;
+}
+.icon-slidebar-ad-hidden {
+  background-image: url(../images/sprite.png);
+  background-position: -9.78125rem 0rem;
+  width: 2.1875rem;
+  height: 3.5625rem;
+}
+.icon-slidebar-ad-show {
+  background-image: url(../images/sprite.png);
+  background-position: 0rem 0rem;
+  width: 9.3125rem;
+  height: 3.5625rem;
+}
+.icon-task-center-checked {
+  background-image: url(../images/sprite.png);
+  background-position: -5.53125rem -10.375rem;
+  width: 1.375rem;
+  height: 1.375rem;
+}
+.icon-task-center-uncheck {
+  background-image: url(../images/sprite.png);
+  background-position: -1.84375rem -10.375rem;
+  width: 1.375rem;
+  height: 1.375rem;
+}
+.icon-tast-list-checked {
+  background-image: url(../images/sprite.png);
+  background-position: -9.21875rem -10.375rem;
+  width: 1.375rem;
+  height: 1.375rem;
+}
+.icon-tast-list-uncheck {
+  background-image: url(../images/sprite.png);
+  background-position: -12.4375rem 0rem;
+  width: 1.375rem;
+  height: 1.375rem;
+}
+.icon-tip {
+  background-image: url(../images/sprite.png);
+  background-position: -12.4375rem -8.21875rem;
+  width: 0.8125rem;
+  height: 0.8125rem;
+}
+.icon-wallet {
+  background-image: url(../images/sprite.png);
+  background-position: 0rem -4.03125rem;
+  width: 3rem;
+  height: 2.65625rem;
+}
